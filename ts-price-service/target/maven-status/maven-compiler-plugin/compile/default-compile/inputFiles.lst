@@ -1,0 +1,9 @@
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-price-service/src/main/java/price/config/LoggableAutoConfiguration.java
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-price-service/src/main/java/price/service/PriceServiceImpl.java
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-price-service/src/main/java/price/service/PriceService.java
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-price-service/src/main/java/price/config/SecurityConfig.java
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-price-service/src/main/java/price/controller/PriceController.java
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-price-service/src/main/java/price/init/InitData.java
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-price-service/src/main/java/price/repository/PriceConfigRepository.java
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-price-service/src/main/java/price/entity/PriceConfig.java
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-price-service/src/main/java/price/PriceApplication.java

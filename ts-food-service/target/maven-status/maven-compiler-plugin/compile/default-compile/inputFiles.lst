@@ -1,0 +1,12 @@
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-food-service/src/main/java/foodsearch/controller/FoodController.java
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-food-service/src/main/java/foodsearch/entity/AllTripFood.java
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-food-service/src/main/java/foodsearch/config/Queues.java
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-food-service/src/main/java/foodsearch/config/LoggableAutoConfiguration.java
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-food-service/src/main/java/foodsearch/entity/FoodOrder.java
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-food-service/src/main/java/foodsearch/repository/FoodOrderRepository.java
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-food-service/src/main/java/foodsearch/config/SecurityConfig.java
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-food-service/src/main/java/foodsearch/entity/Delivery.java
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-food-service/src/main/java/foodsearch/FoodApplication.java
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-food-service/src/main/java/foodsearch/service/FoodServiceImpl.java
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-food-service/src/main/java/foodsearch/service/FoodService.java
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-food-service/src/main/java/foodsearch/mq/RabbitSend.java

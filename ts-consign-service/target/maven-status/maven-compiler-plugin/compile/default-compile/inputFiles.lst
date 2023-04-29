@@ -1,0 +1,12 @@
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-consign-service/src/main/java/consign/entity/InsertConsignRecordResult.java
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-consign-service/src/main/java/consign/entity/ConsignRecord.java
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-consign-service/src/main/java/consign/init/InitData.java
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-consign-service/src/main/java/consign/entity/Consign.java
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-consign-service/src/main/java/consign/config/LoggableAutoConfiguration.java
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-consign-service/src/main/java/consign/config/SecurityConfig.java
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-consign-service/src/main/java/consign/controller/ConsignController.java
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-consign-service/src/main/java/consign/ConsignApplication.java
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-consign-service/src/main/java/consign/service/ConsignService.java
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-consign-service/src/main/java/consign/entity/GetPriceDomain.java
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-consign-service/src/main/java/consign/repository/ConsignRepository.java
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-consign-service/src/main/java/consign/service/ConsignServiceImpl.java

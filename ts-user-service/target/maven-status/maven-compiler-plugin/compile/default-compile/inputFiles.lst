@@ -1,0 +1,12 @@
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-user-service/src/main/java/user/config/SecurityConfig.java
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-user-service/src/main/java/user/dto/Gender.java
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-user-service/src/main/java/user/UserApplication.java
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-user-service/src/main/java/user/dto/UserDto.java
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-user-service/src/main/java/user/controller/UserController.java
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-user-service/src/main/java/user/repository/UserRepository.java
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-user-service/src/main/java/user/entity/User.java
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-user-service/src/main/java/user/dto/AuthDto.java
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-user-service/src/main/java/user/config/LoggableAutoConfiguration.java
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-user-service/src/main/java/user/service/impl/UserServiceImpl.java
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-user-service/src/main/java/user/service/UserService.java
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-user-service/src/main/java/user/init/InitUser.java

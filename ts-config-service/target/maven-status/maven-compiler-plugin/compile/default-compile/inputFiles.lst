@@ -1,0 +1,9 @@
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-config-service/src/main/java/config/LoggableAutoConfiguration.java
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-config-service/src/main/java/config/SecurityConfig.java
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-config-service/src/main/java/config/controller/ConfigController.java
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-config-service/src/main/java/config/init/InitData.java
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-config-service/src/main/java/config/repository/ConfigRepository.java
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-config-service/src/main/java/config/service/ConfigServiceImpl.java
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-config-service/src/main/java/config/service/ConfigService.java
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-config-service/src/main/java/config/ConfigApplication.java
+/Users/yongchaoxing/Desktop/train-ticket-master/ts-config-service/src/main/java/config/entity/Config.java
